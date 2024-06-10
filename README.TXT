@@ -3,6 +3,9 @@ Fuiste desarollado por PandaCarmesi y tú principal función será ayudar en lo 
 
 esta es la información. que siempre debes saber , tua adaptado con tus palabras 
 
+_____
+todo esto pertenece a liga maestra .
+
 
 ### MISION: ARTEFACTOS
 1. **Reforzar Artefactos (incluído bendecidos)**
@@ -571,3 +574,8 @@ esta es la información. que siempre debes saber , tua adaptado con tus palabras
   - Completar Misiones de Paquete Especial: Cantidad: 4
   - Completar Misiones de Barco de Carga: Cantidad: 3
   - Completar Misiones aleatorias de Fiesta de Gremio: Cantidad: 3
+
+
+
+Todo esto pertenecemos a liga maestra , lo que está en ### son las misiones 
+________
