@@ -1,7 +1,7 @@
 {
     "fg": {
         "MISION: ARTEFACTOS": {
-            "Reforzar Artefactos (incluído bendecidos)": [
+            "Reforzar Artefactos (incluido bendecidos)": [
                 { "Puntos": 248, "Cantidad": 10, "Tiempo": "1d" },
                 { "Puntos": 222, "Cantidad": 8, "Tiempo": "16h" },
                 { "Puntos": 161, "Cantidad": 5, "Tiempo": "1d" },
@@ -467,107 +467,107 @@
                 { "Puntos": 42, "Cantidad": 1, "Tiempo": "1h" }
             ]
         },
-    {   
-    "MISION: MISIONES ALEATORIAS": {
-        "Completar misión aleatoria": [
-            { "Puntos": 200, "Cantidad": 1, "Tiempo": "4d" },
-            { "Puntos": 175, "Cantidad": 1, "Tiempo": "3d" },
-            { "Puntos": 150, "Cantidad": 1, "Tiempo": "2d" },
-            { "Puntos": 125, "Cantidad": 1, "Tiempo": "1d" }
-        ],
-        "Estas serían todas las posibles misiones aleatorias que podrían tocarte": [
-            {
-                "Tiempo Límite": "1 día",
-                "Misiones": [
-                    { "Misión": "Intercambios de Barco de Carga", "Cantidad": 12, "Puntos": 125 },
-                    { "Misión": "Completar Misiones de Administrador", "Cantidad": 120, "Puntos": 125 },
-                    { "Misión": "Completar Misiones de Gremio", "Cantidad": 120, "Puntos": 125 },
-                    { "Misión": "Completar Etapas de Héroes", "Cantidad": 20, "Puntos": 125 },
-                    { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 1, "Puntos": 125 },
-                    { "Misión": "Recolectar Recursos", "Cantidad": 20000000, "Puntos": 125 },
-                    { "Misión": "Golpear monstruos", "Cantidad": 45, "Puntos": 125 },
-                    { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 1200000, "Puntos": 125 },
-                    { "Misión": "Aumentar Poder Total", "Cantidad": 1200000, "Puntos": 125 },
-                    { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 2, "Puntos": 125 },
-                    { "Misión": "Comprar Paquetes Especiales", "Cantidad": 2, "Puntos": 125 },
-                    { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 20, "Puntos": 125 },
-                    { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": ".", "Puntos": 125 },
-                    { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": ".", "Puntos": 125 },
-                    { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 60, "Puntos": 125 },
-                    { "Misión": "Gastar Gemas", "Cantidad": 15000, "Puntos": 125 },
-                    { "Misión": "Gastar Monedas de Gremio", "Cantidad": 400000, "Puntos": 125 },
-                    { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 12, "Puntos": 125 }
-                ]
-            },
-            {
-                "Tiempo Límite": "2 días",
-                "Misiones": [
-                    { "Misión": "Intercambios de Barco de Carga", "Cantidad": 16, "Puntos": 150 },
-                    { "Misión": "Completar Misiones de Administrador", "Cantidad": 150, "Puntos": 150 },
-                    { "Misión": "Completar Misiones de Gremio", "Cantidad": 150, "Puntos": 150 },
-                    { "Misión": "Completar Etapas de Héroes", "Cantidad": 30, "Puntos": 150 },
-                    { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 2, "Puntos": 150 },
-                    { "Misión": "Recolectar Recursos", "Cantidad": 25000000, "Puntos": 150 },
-                    { "Misión": "Golpear monstruos", "Cantidad": 65, "Puntos": 150 },
-                    { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 1500000, "Puntos": 150 },
-                    { "Misión": "Aumentar Poder Total", "Cantidad": 1500000, "Puntos": 150 },
-                    { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 4, "Puntos": 150 },
-                    { "Misión": "Comprar Paquetes Especiales", "Cantidad": 3, "Puntos": 150 },
-                    { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 25, "Puntos": 150 },
-                    { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 1, "Puntos": 150 },
-                    { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 1, "Puntos": 150 },
-                    { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 75, "Puntos": 150 },
-                    { "Misión": "Gastar Gemas", "Cantidad": 25000, "Puntos": 150 },
-                    { "Misión": "Gastar Monedas de Gremio", "Cantidad": 600000, "Puntos": 150 },
-                    { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 25, "Puntos": 150 }
-                ]
-            },
-            {
-                "Tiempo Límite": "3 días",
-                "Misiones": [
-                    { "Misión": "Intercambios de Barco de Carga", "Cantidad": 20, "Puntos": 175 },
-                    { "Misión": "Completar Misiones de Administrador", "Cantidad": 200, "Puntos": 175 },
-                    { "Misión": "Completar Misiones de Gremio", "Cantidad": 200, "Puntos": 175 },
-                    { "Misión": "Completar Etapas de Héroes", "Cantidad": 60, "Puntos": 175 },
-                    { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 3, "Puntos": 175 },
-                    { "Misión": "Recolectar Recursos", "Cantidad": 30000000, "Puntos": 175 },
-                    { "Misión": "Golpear monstruos", "Cantidad": 80, "Puntos": 175 },
-                    { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 2000000, "Puntos": 175 },
-                    { "Misión": "Aumentar Poder Total", "Cantidad": 2000000, "Puntos": 175 },
-                    { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 6, "Puntos": 175 },
-                    { "Misión": "Comprar Paquetes Especiales", "Cantidad": 7, "Puntos": 175 },
-                    { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 35, "Puntos": 175 },
-                    { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 2, "Puntos": 175 },
-                    { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 2, "Puntos": 175 },
-                    { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 90, "Puntos": 175 },
-                    { "Misión": "Gastar Gemas", "Cantidad": 50000, "Puntos": 175 },
-                    { "Misión": "Gastar Monedas de Gremio", "Cantidad": 900000, "Puntos": 175 },
-                    { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 35, "Puntos": 175 }
-                ]
-            },
-            {
-                "Tiempo Límite": "4 días",
-                "Misiones": [
-                    { "Misión": "Intercambios de Barco de Carga", "Cantidad": 32, "Puntos": 200 },
-                    { "Misión": "Completar Misiones de Administrador", "Cantidad": 250, "Puntos": 200 },
-                    { "Misión": "Completar Misiones de Gremio", "Cantidad": 250, "Puntos": 200 },
-                    { "Misión": "Completar Etapas de Héroes", "Cantidad": 100, "Puntos": 200 },
-                    { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 5, "Puntos": 200 },
-                    { "Misión": "Recolectar Recursos", "Cantidad": 45000000, "Puntos": 200 },
-                    { "Misión": "Golpear monstruos", "Cantidad": 130, "Puntos": 200 },
-                    { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 3000000, "Puntos": 200 },
-                    { "Misión": "Aumentar Poder Total", "Cantidad": 3000000, "Puntos": 200 },
-                    { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 8, "Puntos": 200 },
-                    { "Misión": "Comprar Paquetes Especiales", "Cantidad": 10, "Puntos": 200 },
-                    { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 45, "Puntos": 200 },
-                    { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 4, "Puntos": 200 },
-                    { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 3, "Puntos": 200 },
-                    { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 140, "Puntos": 200 },
-                    { "Misión": "Gastar Gemas", "Cantidad": 100000, "Puntos": 200 },
-                    { "Misión": "Gastar Monedas de Gremio", "Cantidad": 1200000, "Puntos": 200 },
-                    { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 50, "Puntos": 200 }
-                ]
-            }
-        ]
+        "MISION: MISIONES ALEATORIAS": {
+            "Completar misión aleatoria": [
+                { "Puntos": 200, "Cantidad": 1, "Tiempo": "4d" },
+                { "Puntos": 175, "Cantidad": 1, "Tiempo": "3d" },
+                { "Puntos": 150, "Cantidad": 1, "Tiempo": "2d" },
+                { "Puntos": 125, "Cantidad": 1, "Tiempo": "1d" }
+            ],
+            "Estas serían todas las posibles misiones aleatorias que podrían tocarte": [
+                {
+                    "Tiempo Límite": "1 día",
+                    "Misiones": [
+                        { "Misión": "Intercambios de Barco de Carga", "Cantidad": 12, "Puntos": 125 },
+                        { "Misión": "Completar Misiones de Administrador", "Cantidad": 120, "Puntos": 125 },
+                        { "Misión": "Completar Misiones de Gremio", "Cantidad": 120, "Puntos": 125 },
+                        { "Misión": "Completar Etapas de Héroes", "Cantidad": 20, "Puntos": 125 },
+                        { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 1, "Puntos": 125 },
+                        { "Misión": "Recolectar Recursos", "Cantidad": 20000000, "Puntos": 125 },
+                        { "Misión": "Golpear monstruos", "Cantidad": 45, "Puntos": 125 },
+                        { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 1200000, "Puntos": 125 },
+                        { "Misión": "Aumentar Poder Total", "Cantidad": 1200000, "Puntos": 125 },
+                        { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 2, "Puntos": 125 },
+                        { "Misión": "Comprar Paquetes Especiales", "Cantidad": 2, "Puntos": 125 },
+                        { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 20, "Puntos": 125 },
+                        { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": ".", "Puntos": 125 },
+                        { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": ".", "Puntos": 125 },
+                        { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 60, "Puntos": 125 },
+                        { "Misión": "Gastar Gemas", "Cantidad": 15000, "Puntos": 125 },
+                        { "Misión": "Gastar Monedas de Gremio", "Cantidad": 400000, "Puntos": 125 },
+                        { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 12, "Puntos": 125 }
+                    ]
+                },
+                {
+                    "Tiempo Límite": "2 días",
+                    "Misiones": [
+                        { "Misión": "Intercambios de Barco de Carga", "Cantidad": 16, "Puntos": 150 },
+                        { "Misión": "Completar Misiones de Administrador", "Cantidad": 150, "Puntos": 150 },
+                        { "Misión": "Completar Misiones de Gremio", "Cantidad": 150, "Puntos": 150 },
+                        { "Misión": "Completar Etapas de Héroes", "Cantidad": 30, "Puntos": 150 },
+                        { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 2, "Puntos": 150 },
+                        { "Misión": "Recolectar Recursos", "Cantidad": 25000000, "Puntos": 150 },
+                        { "Misión": "Golpear monstruos", "Cantidad": 65, "Puntos": 150 },
+                        { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 1500000, "Puntos": 150 },
+                        { "Misión": "Aumentar Poder Total", "Cantidad": 1500000, "Puntos": 150 },
+                        { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 4, "Puntos": 150 },
+                        { "Misión": "Comprar Paquetes Especiales", "Cantidad": 3, "Puntos": 150 },
+                        { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 25, "Puntos": 150 },
+                        { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 1, "Puntos": 150 },
+                        { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 1, "Puntos": 150 },
+                        { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 75, "Puntos": 150 },
+                        { "Misión": "Gastar Gemas", "Cantidad": 25000, "Puntos": 150 },
+                        { "Misión": "Gastar Monedas de Gremio", "Cantidad": 600000, "Puntos": 150 },
+                        { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 25, "Puntos": 150 }
+                    ]
+                },
+                {
+                    "Tiempo Límite": "3 días",
+                    "Misiones": [
+                        { "Misión": "Intercambios de Barco de Carga", "Cantidad": 20, "Puntos": 175 },
+                        { "Misión": "Completar Misiones de Administrador", "Cantidad": 200, "Puntos": 175 },
+                        { "Misión": "Completar Misiones de Gremio", "Cantidad": 200, "Puntos": 175 },
+                        { "Misión": "Completar Etapas de Héroes", "Cantidad": 60, "Puntos": 175 },
+                        { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 3, "Puntos": 175 },
+                        { "Misión": "Recolectar Recursos", "Cantidad": 30000000, "Puntos": 175 },
+                        { "Misión": "Golpear monstruos", "Cantidad": 80, "Puntos": 175 },
+                        { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 2000000, "Puntos": 175 },
+                        { "Misión": "Aumentar Poder Total", "Cantidad": 2000000, "Puntos": 175 },
+                        { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 6, "Puntos": 175 },
+                        { "Misión": "Comprar Paquetes Especiales", "Cantidad": 7, "Puntos": 175 },
+                        { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 35, "Puntos": 175 },
+                        { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 2, "Puntos": 175 },
+                        { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 2, "Puntos": 175 },
+                        { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 90, "Puntos": 175 },
+                        { "Misión": "Gastar Gemas", "Cantidad": 50000, "Puntos": 175 },
+                        { "Misión": "Gastar Monedas de Gremio", "Cantidad": 900000, "Puntos": 175 },
+                        { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 35, "Puntos": 175 }
+                    ]
+                },
+                {
+                    "Tiempo Límite": "4 días",
+                    "Misiones": [
+                        { "Misión": "Intercambios de Barco de Carga", "Cantidad": 32, "Puntos": 200 },
+                        { "Misión": "Completar Misiones de Administrador", "Cantidad": 250, "Puntos": 200 },
+                        { "Misión": "Completar Misiones de Gremio", "Cantidad": 250, "Puntos": 200 },
+                        { "Misión": "Completar Etapas de Héroes", "Cantidad": 100, "Puntos": 200 },
+                        { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 5, "Puntos": 200 },
+                        { "Misión": "Recolectar Recursos", "Cantidad": 45000000, "Puntos": 200 },
+                        { "Misión": "Golpear monstruos", "Cantidad": 130, "Puntos": 200 },
+                        { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 3000000, "Puntos": 200 },
+                        { "Misión": "Aumentar Poder Total", "Cantidad": 3000000, "Puntos": 200 },
+                        { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 8, "Puntos": 200 },
+                        { "Misión": "Comprar Paquetes Especiales", "Cantidad": 10, "Puntos": 200 },
+                        { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 45, "Puntos": 200 },
+                        { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 4, "Puntos": 200 },
+                        { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 3, "Puntos": 200 },
+                        { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 140, "Puntos": 200 },
+                        { "Misión": "Gastar Gemas", "Cantidad": 100000, "Puntos": 200 },
+                        { "Misión": "Gastar Monedas de Gremio", "Cantidad": 1200000, "Puntos": 200 },
+                        { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 50, "Puntos": 200 }
+                    ]
+                }
+            ]
+        }
     }
 }
