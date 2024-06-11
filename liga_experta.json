@@ -1,0 +1,573 @@
+{
+    "fg": {
+        "MISION: ARTEFACTOS": {
+            "Reforzar Artefactos (incluído bendecidos)": [
+                { "Puntos": 248, "Cantidad": 10, "Tiempo": "1d" },
+                { "Puntos": 222, "Cantidad": 8, "Tiempo": "16h" },
+                { "Puntos": 161, "Cantidad": 5, "Tiempo": "1d" },
+                { "Puntos": 144, "Cantidad": 4, "Tiempo": "20h" },
+                { "Puntos": 127, "Cantidad": 3, "Tiempo": "16h" }
+            ],
+            "Gastar Monedas de Artefactos": [
+                { "Puntos": 273, "Cantidad": 30, "Tiempo": "1d" },
+                { "Puntos": 235, "Cantidad": 20, "Tiempo": "16h" },
+                { "Puntos": 165, "Cantidad": 5, "Tiempo": "1d" },
+                { "Puntos": 145, "Cantidad": 4, "Tiempo": "20h" },
+                { "Puntos": 125, "Cantidad": 3, "Tiempo": "16h" }
+            ],
+            "Mejorar Artefactos": [
+                { "Puntos": 248, "Cantidad": 20, "Tiempo": "1d" },
+                { "Puntos": 216, "Cantidad": 15, "Tiempo": "16h" },
+                { "Puntos": 161, "Cantidad": 10, "Tiempo": "1d" },
+                { "Puntos": 144, "Cantidad": 8, "Tiempo": "20h" },
+                { "Puntos": 127, "Cantidad": 6, "Tiempo": "16h" }
+            ]
+        },
+        "MISION: INTERCAMBIO DE BARCO": {
+            "Intercambios de Barco de Carga": [
+                { "Puntos": 146, "Cantidad": 32, "Tiempo": "4d" },
+                { "Puntos": 117, "Cantidad": 20, "Tiempo": "2d" },
+                { "Puntos": 102, "Cantidad": 8, "Tiempo": "1d" },
+                { "Puntos": 87, "Cantidad": 8, "Tiempo": "2d" }
+            ]
+        },
+        "MISION: FORTALEZAS": {
+            "Obtener Esencias Oscuras": [
+                { "Puntos": 134, "Cantidad": 6, "Tiempo": "2d" },
+                { "Puntos": 104, "Cantidad": 4, "Tiempo": "1d12h" },
+                { "Puntos": 75, "Cantidad": 2, "Tiempo": "1d" },
+                { "Puntos": 60, "Cantidad": 1, "Tiempo": "12h" }
+            ],
+            "Obtener Esencias Oscuras Lv 19+": [
+                { "Puntos": 201, "Cantidad": 6, "Tiempo": "2d" },
+                { "Puntos": 154, "Cantidad": 4, "Tiempo": "1d12h" },
+                { "Puntos": 107, "Cantidad": 2, "Tiempo": "1d" },
+                { "Puntos": 84, "Cantidad": 1, "Tiempo": "12h" }
+            ],
+            "Ganar Batallas de Coalición en Fortalezas Oscuras (Sólo Capitán de Rally)": [
+                { "Puntos": 153, "Cantidad": 6, "Tiempo": "2d" },
+                { "Puntos": 117, "Cantidad": 4, "Tiempo": "1d12h" },
+                { "Puntos": 81, "Cantidad": 2, "Tiempo": "1d" },
+                { "Puntos": 63, "Cantidad": 1, "Tiempo": "12h" }
+            ]
+        },
+        "MISION: MONSTRUITOS": {
+            "Fusionar Pactos": [
+                { "Puntos": 151, "Cantidad": 100, "Tiempo": "2d" },
+                { "Puntos": 121, "Cantidad": 50, "Tiempo": "1d12h" },
+                { "Puntos": 103, "Cantidad": 20, "Tiempo": "1d" },
+                { "Puntos": 97, "Cantidad": 10, "Tiempo": "12h" }
+            ],
+            "Fusionar Piedras de Habilidad": [
+                { "Puntos": 152, "Cantidad": 3, "Tiempo": "1d" },
+                { "Puntos": 128, "Cantidad": 2, "Tiempo": "18h" },
+                { "Puntos": 105, "Cantidad": 1, "Tiempo": "12h" }
+            ],
+            "Tiempo reducido usando Aceleradores de Fusión": [
+                { "Puntos": 156, "Cantidad": 16, "Tiempo": "2d" },
+                { "Puntos": 130, "Cantidad": 10, "Tiempo": "1d12h" },
+                { "Puntos": 100, "Cantidad": 3, "Tiempo": "1d" },
+                { "Puntos": 91, "Cantidad": 1, "Tiempo": "12h" }
+            ],
+            "Ganar EXP de Monstruitos con ítems de EXP": [
+                { "Puntos": 170, "Cantidad": 35700, "Tiempo": "2d12h" },
+                { "Puntos": 140, "Cantidad": 17850, "Tiempo": "2d" },
+                { "Puntos": 127, "Cantidad": 10200, "Tiempo": "1d" },
+                { "Puntos": 127, "Cantidad": 5100, "Tiempo": "1d" }
+            ],
+            "Usar habilidades de ataque de Monstruitos": [
+                { "Puntos": 160, "Cantidad": 3, "Tiempo": "1d" },
+                { "Puntos": 137, "Cantidad": 2, "Tiempo": "18h" },
+                { "Puntos": 115, "Cantidad": 1, "Tiempo": "12h" },
+                { "Puntos": 115, "Cantidad": 1, "Tiempo": "6h" }
+            ],
+            "Usar Fragmentos": [
+                { "Puntos": 158, "Cantidad": 600, "Tiempo": "2d" },
+                { "Puntos": 135, "Cantidad": 400, "Tiempo": "1d12h" },
+                { "Puntos": 104, "Cantidad": 120, "Tiempo": "1d" },
+                { "Puntos": 87, "Cantidad": 60, "Tiempo": "12h" }
+            ]
+        },
+        "MISION: GEMAS": {
+            "Gastar Gemas": [
+                { "Puntos": 238, "Cantidad": 200, "Tiempo": "8h" },
+                { "Puntos": 183, "Cantidad": 100, "Tiempo": "6h" },
+                { "Puntos": 141, "Cantidad": 50, "Tiempo": "4h" },
+                { "Puntos": 110, "Cantidad": 25, "Tiempo": "3h" },
+                { "Puntos": 95, "Cantidad": 12, "Tiempo": "2h" },
+                { "Puntos": 84, "Cantidad": 3, "Tiempo": "1h" }
+            ]
+        },
+        "MISION: EVENTOS INFIERNO, SOLITARIO Y DESAFÍO 24 HORAS": {
+            "Completar Fase 3 – Eventos Infierno (Tiempo Corto)": [
+                { "Puntos": 352, "Cantidad": 8, "Tiempo": "16h" },
+                { "Puntos": 242, "Cantidad": 5, "Tiempo": "10h" },
+                { "Puntos": 169, "Cantidad": 3, "Tiempo": "9h" },
+                { "Puntos": 133, "Cantidad": 2, "Tiempo": "6h" }
+            ],
+            "Completar Fase 3 – Eventos Infierno": [
+                { "Puntos": 285, "Cantidad": 10, "Tiempo": "2d12h" }
+            ],
+            "Completar Fase 3 – Eventos Infierno (Tiempo Largo)": [
+                { "Puntos": 213, "Cantidad": 7, "Tiempo": "2d12h" },
+                { "Puntos": 189, "Cantidad": 6, "Tiempo": "2d" },
+                { "Puntos": 141, "Cantidad": 4, "Tiempo": "2d" },
+                { "Puntos": 118, "Cantidad": 3, "Tiempo": "1d12h" },
+                { "Puntos": 105, "Cantidad": 1, "Tiempo": "1d" },
+                { "Puntos": 94, "Cantidad": 2, "Tiempo": "1d12h" }
+            ],
+            "Ranking en Top 70 para Eventos Infierno": [
+                { "Puntos": 300, "Cantidad": 7, "Tiempo": "2d12h" },
+                { "Puntos": 206, "Cantidad": 4, "Tiempo": "2d" },
+                { "Puntos": 143, "Cantidad": 2, "Tiempo": "1d12h" },
+                { "Puntos": 111, "Cantidad": 1, "Tiempo": "1d" }
+            ],
+            "Ranking en Top 10 para Eventos Infierno": [
+                { "Puntos": 290, "Cantidad": 2, "Tiempo": "2d" },
+                { "Puntos": 187, "Cantidad": 1, "Tiempo": "1d" }
+            ],
+            "Completar Fase 3 – Eventos Solitario": [
+                { "Puntos": 147, "Cantidad": 8, "Tiempo": "4d" },
+                { "Puntos": 96, "Cantidad": 4, "Tiempo": "3d" },
+                { "Puntos": 71, "Cantidad": 2, "Tiempo": "2d" },
+                { "Puntos": 59, "Cantidad": 1, "Tiempo": "1d" }
+            ],
+            "Ranking en Top 70 para Eventos Solitario": [
+                { "Puntos": 269, "Cantidad": 6, "Tiempo": "4d" },
+                { "Puntos": 206, "Cantidad": 4, "Tiempo": "3d" },
+                { "Puntos": 143, "Cantidad": 2, "Tiempo": "2d" },
+                { "Puntos": 112, "Cantidad": 1, "Tiempo": "1d" }
+            ],
+            "Ranking en Top 10 para Eventos Solitario": [
+                { "Puntos": 302, "Cantidad": 2, "Tiempo": "2d" },
+                { "Puntos": 206, "Cantidad": 1, "Tiempo": "1d" }
+            ]
+        },
+        "MISION: AUMENTAR PODER": {
+            "Aumento de Poder (Edificios)": [
+                { "Puntos": 133, "Cantidad": 120000, "Tiempo": "1d6h" },
+                { "Puntos": 96, "Cantidad": 60000, "Tiempo": "1d" },
+                { "Puntos": 75, "Cantidad": 24000, "Tiempo": "18h" },
+                { "Puntos": 67, "Cantidad": 12000, "Tiempo": "12h" }
+            ],
+            "Aumento de Poder (Ejércitos de Héroes)": [
+                { "Puntos": 145, "Cantidad": 360000, "Tiempo": "1d6h" },
+                { "Puntos": 97, "Cantidad": 180000, "Tiempo": "1d" },
+                { "Puntos": 87, "Cantidad": 360000, "Tiempo": "1d" },
+                { "Puntos": 70, "Cantidad": 90000, "Tiempo": "18h" },
+                { "Puntos": 64, "Cantidad": 120000, "Tiempo": "18h" },
+                { "Puntos": 56, "Cantidad": 30000, "Tiempo": "12h" },
+                { "Puntos": 55, "Cantidad": 30000, "Tiempo": "12h" }
+            ],
+            "Aumento de Poder (Misiones)": [
+                { "Puntos": 144, "Cantidad": 160000, "Tiempo": "1d6h" },
+                { "Puntos": 106, "Cantidad": 40000, "Tiempo": "12h" },
+                { "Puntos": 92, "Cantidad": 80000, "Tiempo": "1d" },
+                { "Puntos": 66, "Cantidad": 40000, "Tiempo": "18h" }
+            ],
+            "Aumento de Poder (Investigación)": [
+                { "Puntos": 248, "Cantidad": 6936000, "Tiempo": "2d12h" },
+                { "Puntos": 191, "Cantidad": 4080000, "Tiempo": "1d21h" },
+                { "Puntos": 147, "Cantidad": 2400000, "Tiempo": "1d6h" },
+                { "Puntos": 100, "Cantidad": 600000, "Tiempo": "12h" },
+                { "Puntos": 94, "Cantidad": 1200000, "Tiempo": "1d" },
+                { "Puntos": 67, "Cantidad": 600000, "Tiempo": "18h" }
+            ],
+            "Aumento de Poder (Tropas)": [
+                { "Puntos": 248, "Cantidad": 6936000, "Tiempo": "2d12h" },
+                { "Puntos": 191, "Cantidad": 4080000, "Tiempo": "1d21h" },
+                { "Puntos": 147, "Cantidad": 2400000, "Tiempo": "1d6h" },
+                { "Puntos": 100, "Cantidad": 600000, "Tiempo": "12h" },
+                { "Puntos": 94, "Cantidad": 1200000, "Tiempo": "1d" },
+                { "Puntos": 67, "Cantidad": 600000, "Tiempo": "18h" }
+            ],
+            "Aumento de Poder Total": [
+                { "Puntos": 248, "Cantidad": 6936000, "Tiempo": "2d12h" },
+                { "Puntos": 191, "Cantidad": 4080000, "Tiempo": "1d21h" },
+                { "Puntos": 147, "Cantidad": 2400000, "Tiempo": "1d6h" },
+                { "Puntos": 100, "Cantidad": 600000, "Tiempo": "12h" },
+                { "Puntos": 94, "Cantidad": 1200000, "Tiempo": "1d" },
+                { "Puntos": 67, "Cantidad": 600000, "Tiempo": "18h" }
+            ]
+        },
+        "MISION: MAGNATE DE REINO": {
+            "Encontrar un Duende en el Magnate de Reino": [
+                { "Puntos": 214, "Cantidad": 8, "Tiempo": "2d" },
+                { "Puntos": 171, "Cantidad": 6, "Tiempo": "1d12h" },
+                { "Puntos": 155, "Cantidad": 4, "Tiempo": "1d" },
+                { "Puntos": 135, "Cantidad": 2, "Tiempo": "1d" }
+            ],
+            "Gastar Amuletos": [
+                { "Puntos": 194, "Cantidad": 120, "Tiempo": "4d" },
+                { "Puntos": 162, "Cantidad": 95, "Tiempo": "3d" },
+                { "Puntos": 135, "Cantidad": 70, "Tiempo": "3d" },
+                { "Puntos": 112, "Cantidad": 45, "Tiempo": "2d" },
+                { "Puntos": 101, "Cantidad": 25, "Tiempo": "1d" },
+                { "Puntos": 88, "Cantidad": 10, "Tiempo": "1d" }
+            ]
+        },
+        "MISION: LABERINTO": {
+            "Encontrar Guardianes del Laberinto": [
+                { "Puntos": 209, "Cantidad": 3, "Tiempo": "2d" },
+                { "Puntos": 168, "Cantidad": 2, "Tiempo": "2d" },
+                { "Puntos": 126, "Cantidad": 1, "Tiempo": "1d" }
+            ],
+            "Usar Estrellas Sagradas": [
+                { "Puntos": 251, "Cantidad": 200, "Tiempo": "3d" },
+                { "Puntos": 194, "Cantidad": 100, "Tiempo": "2d12h" },
+                { "Puntos": 149, "Cantidad": 50, "Tiempo": "2d" },
+                { "Puntos": 118, "Cantidad": 30, "Tiempo": "1d12h" },
+                { "Puntos": 94, "Cantidad": 15, "Tiempo": "1d" },
+                { "Puntos": 78, "Cantidad": 5, "Tiempo": "12h" }
+            ]
+        },
+        "MISION: CACERÍA DE MONSTRUOS": {
+            "Golpear Monstruos": [
+                { "Puntos": 163, "Cantidad": 140, "Tiempo": "4d" },
+                { "Puntos": 121, "Cantidad": 90, "Tiempo": "3d" },
+                { "Puntos": 113, "Cantidad": 80, "Tiempo": "4d" },
+                { "Puntos": 98, "Cantidad": 30, "Tiempo": "1d" },
+                { "Puntos": 96, "Cantidad": 60, "Tiempo": "2d" },
+                { "Puntos": 87, "Cantidad": 50, "Tiempo": "3d" },
+                { "Puntos": 79, "Cantidad": 40, "Tiempo": "1d" },
+                { "Puntos": 70, "Cantidad": 30, "Tiempo": "2d" }
+            ]
+        },
+        "MISION: RECOLECTAR RECURSOS": {
+            "Recolectar Completamente Vetas de Recursos de Nivel 5": [
+                { "Puntos": 175, "Cantidad": 5, "Tiempo": "2d" },
+                { "Puntos": 141, "Cantidad": 3, "Tiempo": "1d" },
+                { "Puntos": 124, "Cantidad": 2, "Tiempo": "18h" },
+                { "Puntos": 107, "Cantidad": 1, "Tiempo": "12h" }
+            ],
+            "Recolectar Comida": [
+                { "Puntos": 143, "Cantidad": 25000000, "Tiempo": "1d4h" },
+                { "Puntos": 119, "Cantidad": 18750000, "Tiempo": "3d" },
+                { "Puntos": 115, "Cantidad": 12500000, "Tiempo": "19h" },
+                { "Puntos": 94, "Cantidad": 12500000, "Tiempo": "3d" },
+                { "Puntos": 88, "Cantidad": 6250000, "Tiempo": "12h" },
+                { "Puntos": 74, "Cantidad": 3125000, "Tiempo": "5h" },
+                { "Puntos": 68, "Cantidad": 6250000, "Tiempo": "2d" },
+                { "Puntos": 56, "Cantidad": 3125000, "Tiempo": "2d" }
+            ],
+            "Recolectar Oro": [
+                { "Puntos": 143, "Cantidad": 3750000, "Tiempo": "1d14h" },
+                { "Puntos": 119, "Cantidad": 3750000, "Tiempo": "3d" },
+                { "Puntos": 115, "Cantidad": 2500000, "Tiempo": "1d1h" },
+                { "Puntos": 94, "Cantidad": 2500000, "Tiempo": "3d" },
+                { "Puntos": 88, "Cantidad": 1250000, "Tiempo": "12h" },
+                { "Puntos": 74, "Cantidad": 625000, "Tiempo": "7h" },
+                { "Puntos": 68, "Cantidad": 1250000, "Tiempo": "2d" },
+                { "Puntos": 56, "Cantidad": 625000, "Tiempo": "2d" }
+            ],
+            "Recolectar Mineral": [
+                { "Puntos": 143, "Cantidad": 11250000, "Tiempo": "1d1h" },
+                { "Puntos": 119, "Cantidad": 11250000, "Tiempo": "3d" },
+                { "Puntos": 115, "Cantidad": 7500000, "Tiempo": "17h" },
+                { "Puntos": 94, "Cantidad": 7500000, "Tiempo": "3d" },
+                { "Puntos": 88, "Cantidad": 3750000, "Tiempo": "9h" },
+                { "Puntos": 74, "Cantidad": 1875000, "Tiempo": "5h" },
+                { "Puntos": 68, "Cantidad": 3750000, "Tiempo": "2d" },
+                { "Puntos": 56, "Cantidad": 1875000, "Tiempo": "2d" }
+            ],
+            "Recolectar Recursos": [
+                { "Puntos": 152, "Cantidad": 30000000, "Tiempo": "1d20h" },
+                { "Puntos": 122, "Cantidad": 20000000, "Tiempo": "1d5h" },
+                { "Puntos": 119, "Cantidad": 30000000, "Tiempo": "3d" },
+                { "Puntos": 94, "Cantidad": 20000000, "Tiempo": "3d" },
+                { "Puntos": 91, "Cantidad": 10000000, "Tiempo": "15h" },
+                { "Puntos": 75, "Cantidad": 5000000, "Tiempo": "8h" },
+                { "Puntos": 68, "Cantidad": 10000000, "Tiempo": "2d" },
+                { "Puntos": 56, "Cantidad": 5000000, "Tiempo": "2d" }
+            ],
+            "Recolectar Piedra": [
+                { "Puntos": 143, "Cantidad": 15000000, "Tiempo": "1d9h" },
+                { "Puntos": 119, "Cantidad": 15000000, "Tiempo": "3d" },
+                { "Puntos": 115, "Cantidad": 10000000, "Tiempo": "22h" },
+                { "Puntos": 94, "Cantidad": 10000000, "Tiempo": "3d" },
+                { "Puntos": 88, "Cantidad": 5000000, "Tiempo": "11h" },
+                { "Puntos": 74, "Cantidad": 2500000, "Tiempo": "6h" },
+                { "Puntos": 68, "Cantidad": 5000000, "Tiempo": "2d" },
+                { "Puntos": 56, "Cantidad": 2500000, "Tiempo": "2d" }
+            ],
+            "Recolectar Madera": [
+                { "Puntos": 143, "Cantidad": 15000000, "Tiempo": "1d9h" },
+                { "Puntos": 119, "Cantidad": 15000000, "Tiempo": "3d" },
+                { "Puntos": 115, "Cantidad": 10000000, "Tiempo": "22h" },
+                { "Puntos": 94, "Cantidad": 10000000, "Tiempo": "3d" },
+                { "Puntos": 88, "Cantidad": 5000000, "Tiempo": "11h" },
+                { "Puntos": 74, "Cantidad": 2500000, "Tiempo": "6h" },
+                { "Puntos": 68, "Cantidad": 5000000, "Tiempo": "2d" },
+                { "Puntos": 56, "Cantidad": 2500000, "Tiempo": "2d" }
+            ]
+        },
+        "MISION: SUMINISTRAR RECURSOS": {
+            "Suministrar Comida": [
+                { "Puntos": 105, "Cantidad": 37500000, "Tiempo": "12h" },
+                { "Puntos": 83, "Cantidad": 25000000, "Tiempo": "9h" },
+                { "Puntos": 62, "Cantidad": 12500000, "Tiempo": "6h" },
+                { "Puntos": 51, "Cantidad": 6250000, "Tiempo": "3h" }
+            ],
+            "Suministrar Oro": [
+                { "Puntos": 105, "Cantidad": 30000000, "Tiempo": "12h" },
+                { "Puntos": 83, "Cantidad": 20000000, "Tiempo": "9h" },
+                { "Puntos": 62, "Cantidad": 10000000, "Tiempo": "6h" },
+                { "Puntos": 51, "Cantidad": 5000000, "Tiempo": "3h" }
+            ],
+            "Suministrar Mineral": [
+                { "Puntos": 105, "Cantidad": 30000000, "Tiempo": "12h" },
+                { "Puntos": 83, "Cantidad": 20000000, "Tiempo": "9h" },
+                { "Puntos": 62, "Cantidad": 10000000, "Tiempo": "6h" },
+                { "Puntos": 51, "Cantidad": 5000000, "Tiempo": "3h" }
+            ],
+            "Suministrar Recursos": [
+                { "Puntos": 110, "Cantidad": 60000000, "Tiempo": "12h" },
+                { "Puntos": 87, "Cantidad": 40000000, "Tiempo": "9h" },
+                { "Puntos": 63, "Cantidad": 20000000, "Tiempo": "6h" },
+                { "Puntos": 52, "Cantidad": 10000000, "Tiempo": "3h" }
+            ],
+            "Suministrar Piedra": [
+                { "Puntos": 105, "Cantidad": 30000000, "Tiempo": "12h" },
+                { "Puntos": 83, "Cantidad": 20000000, "Tiempo": "9h" },
+                { "Puntos": 62, "Cantidad": 10000000, "Tiempo": "6h" },
+                { "Puntos": 51, "Cantidad": 5000000, "Tiempo": "3h" }
+            ],
+            "Suministrar Madera": [
+                { "Puntos": 105, "Cantidad": 30000000, "Tiempo": "12h" },
+                { "Puntos": 83, "Cantidad": 20000000, "Tiempo": "9h" },
+                { "Puntos": 62, "Cantidad": 10000000, "Tiempo": "6h" },
+                { "Puntos": 51, "Cantidad": 5000000, "Tiempo": "3h" }
+            ]
+        },
+        "MISION: USO DE ACELERADORES": {
+            "Tiempo reducido usando aceleradores": [
+                { "Puntos": 205, "Cantidad": 64, "Tiempo": "4d" },
+                { "Puntos": 164, "Cantidad": 32, "Tiempo": "3d" },
+                { "Puntos": 131, "Cantidad": 16, "Tiempo": "2d" },
+                { "Puntos": 101, "Cantidad": 10, "Tiempo": "1d12h" },
+                { "Puntos": 65, "Cantidad": 3, "Tiempo": "1d" },
+                { "Puntos": 55, "Cantidad": 1, "Tiempo": "12h" }
+            ]
+        },
+        "MISION: TROPAS": {
+            "Forjar Equipo (T5)": [
+                { "Puntos": 255, "Cantidad": 192000, "Tiempo": "2d" },
+                { "Puntos": 134, "Cantidad": 30000, "Tiempo": "18h" },
+                { "Puntos": 92, "Cantidad": 3000, "Tiempo": "6h" }
+            ],
+            "Entrenar soldados": [
+                { "Puntos": 115, "Cantidad": 600000, "Tiempo": "1d" },
+                { "Puntos": 78, "Cantidad": 300000, "Tiempo": "18h" },
+                { "Puntos": 59, "Cantidad": 150000, "Tiempo": "12h" },
+                { "Puntos": 44, "Cantidad": 30000, "Tiempo": "6h" }
+            ],
+            "Ejecutar prisioneros": [
+                { "Puntos": 189, "Cantidad": 15, "Tiempo": "2d" },
+                { "Puntos": 152, "Cantidad": 10, "Tiempo": "1d12h" },
+                { "Puntos": 116, "Cantidad": 5, "Tiempo": "1d" },
+                { "Puntos": 102, "Cantidad": 3, "Tiempo": "12h" }
+            ],
+            "Curar soldados": [
+                { "Puntos": 103, "Cantidad": 480000, "Tiempo": "1d" },
+                { "Puntos": 72, "Cantidad": 240000, "Tiempo": "18h" },
+                { "Puntos": 56, "Cantidad": 120000, "Tiempo": "12h" },
+                { "Puntos": 44, "Cantidad": 30000, "Tiempo": "6h" }
+            ]
+        },
+        "MISION: OTRAS MISIONES": {
+            "Completar misiones de Admin": [
+                { "Puntos": 112, "Cantidad": 170, "Tiempo": "1d" },
+                { "Puntos": 106, "Cantidad": 120, "Tiempo": "6h" },
+                { "Puntos": 102, "Cantidad": 150, "Tiempo": "18h" },
+                { "Puntos": 88, "Cantidad": 120, "Tiempo": "12h" }
+            ],
+            "Completar misiones de gremio": [
+                { "Puntos": 112, "Cantidad": 170, "Tiempo": "1d" },
+                { "Puntos": 106, "Cantidad": 120, "Tiempo": "6h" },
+                { "Puntos": 102, "Cantidad": 150, "Tiempo": "18h" },
+                { "Puntos": 88, "Cantidad": 120, "Tiempo": "12h" }
+            ],
+            "Completar misiones VIP": [
+                { "Puntos": 109, "Cantidad": 10, "Tiempo": "3d" },
+                { "Puntos": 62, "Cantidad": 4, "Tiempo": "2d" },
+                { "Puntos": 54, "Cantidad": 3, "Tiempo": "2d" },
+                { "Puntos": 46, "Cantidad": 2, "Tiempo": "2d" }
+            ],
+            "Batallas de coliseo": [
+                { "Puntos": 111, "Cantidad": 25, "Tiempo": "2d" },
+                { "Puntos": 96, "Cantidad": 20, "Tiempo": "1d12h" },
+                { "Puntos": 65, "Cantidad": 10, "Tiempo": "1d" },
+                { "Puntos": 50, "Cantidad": 5, "Tiempo": "12h" }
+            ],
+            "Ascender posiciones en el coliseo": [
+                { "Puntos": 102, "Cantidad": 55, "Tiempo": "2d" },
+                { "Puntos": 50, "Cantidad": 15, "Tiempo": "1d" },
+                { "Puntos": 43, "Cantidad": 10, "Tiempo": "12h" }
+            ],
+            "Completar etapas de héroe": [
+                { "Puntos": 112, "Cantidad": 100, "Tiempo": "4d" },
+                { "Puntos": 83, "Cantidad": 60, "Tiempo": "3d" },
+                { "Puntos": 61, "Cantidad": 30, "Tiempo": "2d" },
+                { "Puntos": 54, "Cantidad": 20, "Tiempo": "1d" }
+            ],
+            "Forjar equipo": [
+                { "Puntos": 90, "Cantidad": 5, "Tiempo": "2d" },
+                { "Puntos": 76, "Cantidad": 4, "Tiempo": "1d12h" },
+                { "Puntos": 62, "Cantidad": 3, "Tiempo": "1d" },
+                { "Puntos": 48, "Cantidad": 2, "Tiempo": "12h" }
+            ],
+            "Abrir cajas misteriosas": [
+                { "Puntos": 152, "Cantidad": 45, "Tiempo": "4d" },
+                { "Puntos": 139, "Cantidad": 40, "Tiempo": "4d" },
+                { "Puntos": 139, "Cantidad": 20, "Tiempo": "2d" },
+                { "Puntos": 126, "Cantidad": 35, "Tiempo": "3d" },
+                { "Puntos": 98, "Cantidad": 10, "Tiempo": "1d" },
+                { "Puntos": 74, "Cantidad": 15, "Tiempo": "3d" },
+                { "Puntos": 61, "Cantidad": 10, "Tiempo": "2d" }
+            ],
+            "Comprar paquetes especiales": [
+                { "Puntos": 239, "Cantidad": 9, "Tiempo": "2d" },
+                { "Puntos": 208, "Cantidad": 7, "Tiempo": "1d12h" },
+                { "Puntos": 192, "Cantidad": 6, "Tiempo": "2d" },
+                { "Puntos": 176, "Cantidad": 5, "Tiempo": "1d" },
+                { "Puntos": 161, "Cantidad": 4, "Tiempo": "1d12h" },
+                { "Puntos": 145, "Cantidad": 3, "Tiempo": "1d" },
+                { "Puntos": 129, "Cantidad": 2, "Tiempo": "12h" }
+            ],
+            "Investigar tecnologías": [
+                { "Puntos": 171, "Cantidad": 26, "Tiempo": "4d" },
+                { "Puntos": 148, "Cantidad": 20, "Tiempo": "3d" },
+                { "Puntos": 128, "Cantidad": 15, "Tiempo": "2d" },
+                { "Puntos": 99, "Cantidad": 8, "Tiempo": "1d" },
+                { "Puntos": 78, "Cantidad": 6, "Tiempo": "18h" },
+                { "Puntos": 57, "Cantidad": 4, "Tiempo": "12h" }
+            ],
+            "Enviar ayuda a tus compañeros de gremio": [
+                { "Puntos": 137, "Cantidad": 120, "Tiempo": "4d" },
+                { "Puntos": 106, "Cantidad": 40, "Tiempo": "1d" },
+                { "Puntos": 91, "Cantidad": 65, "Tiempo": "3d" },
+                { "Puntos": 71, "Cantidad": 40, "Tiempo": "2d" }
+            ],
+            "Gastar Monedas de Gremio": [
+                { "Puntos": 138, "Cantidad": 1000000, "Tiempo": "4h" },
+                { "Puntos": 101, "Cantidad": 500000, "Tiempo": "3h" },
+                { "Puntos": 82, "Cantidad": 240000, "Tiempo": "2h" },
+                { "Puntos": 69, "Cantidad": 60000, "Tiempo": "1h" }
+            ],
+            "Desbloquear Estrellas del Castillo": [
+                { "Puntos": 211, "Cantidad": 3, "Tiempo": "1d12h" },
+                { "Puntos": 174, "Cantidad": 2, "Tiempo": "1d12h" },
+                { "Puntos": 155, "Cantidad": 1, "Tiempo": "1d12h" },
+                { "Puntos": 137, "Cantidad": 1, "Tiempo": "1d12h" }
+            ],
+            "Usar el potenciador de Investigación": [
+                { "Puntos": 47, "Cantidad": 1, "Tiempo": "1h" }
+            ],
+            "Usar el potenciador de Producción de Recursos": [
+                { "Puntos": 42, "Cantidad": 1, "Tiempo": "1h" }
+            ]
+        },
+    {   
+    "MISION: MISIONES ALEATORIAS": {
+        "Completar misión aleatoria": [
+            { "Puntos": 200, "Cantidad": 1, "Tiempo": "4d" },
+            { "Puntos": 175, "Cantidad": 1, "Tiempo": "3d" },
+            { "Puntos": 150, "Cantidad": 1, "Tiempo": "2d" },
+            { "Puntos": 125, "Cantidad": 1, "Tiempo": "1d" }
+        ],
+        "Estas serían todas las posibles misiones aleatorias que podrían tocarte": [
+            {
+                "Tiempo Límite": "1 día",
+                "Misiones": [
+                    { "Misión": "Intercambios de Barco de Carga", "Cantidad": 12, "Puntos": 125 },
+                    { "Misión": "Completar Misiones de Administrador", "Cantidad": 120, "Puntos": 125 },
+                    { "Misión": "Completar Misiones de Gremio", "Cantidad": 120, "Puntos": 125 },
+                    { "Misión": "Completar Etapas de Héroes", "Cantidad": 20, "Puntos": 125 },
+                    { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 1, "Puntos": 125 },
+                    { "Misión": "Recolectar Recursos", "Cantidad": 20000000, "Puntos": 125 },
+                    { "Misión": "Golpear monstruos", "Cantidad": 45, "Puntos": 125 },
+                    { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 1200000, "Puntos": 125 },
+                    { "Misión": "Aumentar Poder Total", "Cantidad": 1200000, "Puntos": 125 },
+                    { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 2, "Puntos": 125 },
+                    { "Misión": "Comprar Paquetes Especiales", "Cantidad": 2, "Puntos": 125 },
+                    { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 20, "Puntos": 125 },
+                    { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": ".", "Puntos": 125 },
+                    { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": ".", "Puntos": 125 },
+                    { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 60, "Puntos": 125 },
+                    { "Misión": "Gastar Gemas", "Cantidad": 15000, "Puntos": 125 },
+                    { "Misión": "Gastar Monedas de Gremio", "Cantidad": 400000, "Puntos": 125 },
+                    { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 12, "Puntos": 125 }
+                ]
+            },
+            {
+                "Tiempo Límite": "2 días",
+                "Misiones": [
+                    { "Misión": "Intercambios de Barco de Carga", "Cantidad": 16, "Puntos": 150 },
+                    { "Misión": "Completar Misiones de Administrador", "Cantidad": 150, "Puntos": 150 },
+                    { "Misión": "Completar Misiones de Gremio", "Cantidad": 150, "Puntos": 150 },
+                    { "Misión": "Completar Etapas de Héroes", "Cantidad": 30, "Puntos": 150 },
+                    { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 2, "Puntos": 150 },
+                    { "Misión": "Recolectar Recursos", "Cantidad": 25000000, "Puntos": 150 },
+                    { "Misión": "Golpear monstruos", "Cantidad": 65, "Puntos": 150 },
+                    { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 1500000, "Puntos": 150 },
+                    { "Misión": "Aumentar Poder Total", "Cantidad": 1500000, "Puntos": 150 },
+                    { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 4, "Puntos": 150 },
+                    { "Misión": "Comprar Paquetes Especiales", "Cantidad": 3, "Puntos": 150 },
+                    { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 25, "Puntos": 150 },
+                    { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 1, "Puntos": 150 },
+                    { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 1, "Puntos": 150 },
+                    { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 75, "Puntos": 150 },
+                    { "Misión": "Gastar Gemas", "Cantidad": 25000, "Puntos": 150 },
+                    { "Misión": "Gastar Monedas de Gremio", "Cantidad": 600000, "Puntos": 150 },
+                    { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 25, "Puntos": 150 }
+                ]
+            },
+            {
+                "Tiempo Límite": "3 días",
+                "Misiones": [
+                    { "Misión": "Intercambios de Barco de Carga", "Cantidad": 20, "Puntos": 175 },
+                    { "Misión": "Completar Misiones de Administrador", "Cantidad": 200, "Puntos": 175 },
+                    { "Misión": "Completar Misiones de Gremio", "Cantidad": 200, "Puntos": 175 },
+                    { "Misión": "Completar Etapas de Héroes", "Cantidad": 60, "Puntos": 175 },
+                    { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 3, "Puntos": 175 },
+                    { "Misión": "Recolectar Recursos", "Cantidad": 30000000, "Puntos": 175 },
+                    { "Misión": "Golpear monstruos", "Cantidad": 80, "Puntos": 175 },
+                    { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 2000000, "Puntos": 175 },
+                    { "Misión": "Aumentar Poder Total", "Cantidad": 2000000, "Puntos": 175 },
+                    { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 6, "Puntos": 175 },
+                    { "Misión": "Comprar Paquetes Especiales", "Cantidad": 7, "Puntos": 175 },
+                    { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 35, "Puntos": 175 },
+                    { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 2, "Puntos": 175 },
+                    { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 2, "Puntos": 175 },
+                    { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 90, "Puntos": 175 },
+                    { "Misión": "Gastar Gemas", "Cantidad": 50000, "Puntos": 175 },
+                    { "Misión": "Gastar Monedas de Gremio", "Cantidad": 900000, "Puntos": 175 },
+                    { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 35, "Puntos": 175 }
+                ]
+            },
+            {
+                "Tiempo Límite": "4 días",
+                "Misiones": [
+                    { "Misión": "Intercambios de Barco de Carga", "Cantidad": 32, "Puntos": 200 },
+                    { "Misión": "Completar Misiones de Administrador", "Cantidad": 250, "Puntos": 200 },
+                    { "Misión": "Completar Misiones de Gremio", "Cantidad": 250, "Puntos": 200 },
+                    { "Misión": "Completar Etapas de Héroes", "Cantidad": 100, "Puntos": 200 },
+                    { "Misión": "Completar Fase 3 (Eventos Infierno)", "Cantidad": 5, "Puntos": 200 },
+                    { "Misión": "Recolectar Recursos", "Cantidad": 45000000, "Puntos": 200 },
+                    { "Misión": "Golpear monstruos", "Cantidad": 130, "Puntos": 200 },
+                    { "Misión": "Aumentar Poder (Investigación)", "Cantidad": 3000000, "Puntos": 200 },
+                    { "Misión": "Aumentar Poder Total", "Cantidad": 3000000, "Puntos": 200 },
+                    { "Misión": "Encontrar a un Duende en el Magnate de Reino", "Cantidad": 8, "Puntos": 200 },
+                    { "Misión": "Comprar Paquetes Especiales", "Cantidad": 10, "Puntos": 200 },
+                    { "Misión": "Abrir Cajas Misteriosas", "Cantidad": 45, "Puntos": 200 },
+                    { "Misión": "Clasificar en el Top 70 para Eventos Infierno", "Cantidad": 4, "Puntos": 200 },
+                    { "Misión": "Clasificar en el Top 70 para Eventos en Solitario", "Cantidad": 3, "Puntos": 200 },
+                    { "Misión": "Enviar ayuda a tus compañeros de gremio", "Cantidad": 140, "Puntos": 200 },
+                    { "Misión": "Gastar Gemas", "Cantidad": 100000, "Puntos": 200 },
+                    { "Misión": "Gastar Monedas de Gremio", "Cantidad": 1200000, "Puntos": 200 },
+                    { "Misión": "Gastar Estrellas Sagradas", "Cantidad": 50, "Puntos": 200 }
+                ]
+            }
+        ]
+    }
+}
