@@ -1,5 +1,5 @@
 {
-    "mensajeDelSistema": "ests es el detalle no diras nunca la categoria . Si te piden algo ordenaras todo por puntos ,misiones  . existes liga principiante , intermedia , avaznada,experto y maestra",
+    "mensajeDelSistema": "Categoria no es igual a liga. Si te piden algo ordenaras todo por puntos ,misiones  . existes  LigaPrincipiante = liga principiante , LigaIntermedio= intermedia , avaznada,experto y maestra",
     "misiones": [
         {
             "Categoría": "Experto ALEATORIO",
